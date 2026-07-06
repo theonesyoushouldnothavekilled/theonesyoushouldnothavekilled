@@ -23,7 +23,7 @@ To read my eyes
 
 <div align="center">
   
-  ![lilypad divider](https://64.media.tumblr.com/164fb0f4daaa5f51a9050fb405776935/60660477b6a400d5-d7/s500x750/0a874ccbb00c724cbc69860fa63d5b6df811a9ea.pnj)
+![lilypad divider](https://64.media.tumblr.com/164fb0f4daaa5f51a9050fb405776935/60660477b6a400d5-d7/s500x750/0a874ccbb00c724cbc69860fa63d5b6df811a9ea.pnj)
 </div>
 
 <p align="center">
@@ -36,7 +36,12 @@ No one but you
 
 <div align="center">
 
-![clover bottom boarder](https://64.media.tumblr.com/68e60c0af2813c15cc5047623ede51ad/63214a32c0af0550-d6/s500x750/d4763a1f440b40409dd7ee5710754e39967ec481.pnj)
+<div align="center">
   
-  ![[discord server](https://discord.gg/py37fxQpr8)](https://64.media.tumblr.com/0e6a8b93011469257d60187f6dcd6899/f02a1cb68b17106a-45/s250x400/41906d617558993585c7136d0b5dabeeac07ab57.pnj)
+![[discord server](https://discord.gg/py37fxQpr8)](https://64.media.tumblr.com/0e6a8b93011469257d60187f6dcd6899/f02a1cb68b17106a-45/s250x400/41906d617558993585c7136d0b5dabeeac07ab57.pnj)
+</div>
+
+<div align="center">
+  
+![clover bottom boarder](https://64.media.tumblr.com/68e60c0af2813c15cc5047623ede51ad/63214a32c0af0550-d6/s500x750/d4763a1f440b40409dd7ee5710754e39967ec481.pnj)
 </div>
