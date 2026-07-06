@@ -20,6 +20,6 @@ No one but you
 
 <div align="center">
   
-  [discord server](https://discord.gg/py37fxQpr8)
+  ![[discord server](https://discord.gg/py37fxQpr8)](https://64.media.tumblr.com/0e6a8b93011469257d60187f6dcd6899/f02a1cb68b17106a-45/s250x400/41906d617558993585c7136d0b5dabeeac07ab57.pnj)
   
 </div>
