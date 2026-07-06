@@ -7,14 +7,15 @@
 No one tried
 </p>
 
+<p align="center">
+[cass]
+</p>
+
 <div align="center">
 
 ![star gif divider2](https://64.media.tumblr.com/636fdd84bcaad02ec30123a6a2c3d2de/8e867d1d1e856a6d-b3/s500x750/fb38e8b3d97b99732c47e9ebf24637a6aab3086e.gifv)
 </div>
 
-<p align="center">
-[cass]
-</p>
 
 <p align="center">
 To read my eyes
