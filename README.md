@@ -3,6 +3,11 @@
 ![star top boarder](https://64.media.tumblr.com/281ee266506c29dc9097abc4bf5c1b46/98b8fc02a696116e-b5/s500x750/18e96471ffb6153729f7d02372151604d43f2520.pnj)
 </div>
 
+<div align=center>
+  
+![clover stamp](https://64.media.tumblr.com/fc5f77cf9d4c9a6266ec079465b570fe/d5679393135bb36e-ff/s250x400/8afdcc8ce10c6ef1e72e66c8e72e419219430073.pnj)
+</div>
+
 <p align="center">
 No one tried
 </p>
@@ -38,7 +43,7 @@ No one but you
 
 <div align="center">
   
-![[discord server](https://discord.gg/py37fxQpr8)](https://64.media.tumblr.com/0e6a8b93011469257d60187f6dcd6899/f02a1cb68b17106a-45/s250x400/41906d617558993585c7136d0b5dabeeac07ab57.pnj)
+![[star stamp - discord server](https://discord.gg/py37fxQpr8)](https://64.media.tumblr.com/0e6a8b93011469257d60187f6dcd6899/f02a1cb68b17106a-45/s250x400/41906d617558993585c7136d0b5dabeeac07ab57.pnj)
 </div>
 
 <div align="center">
