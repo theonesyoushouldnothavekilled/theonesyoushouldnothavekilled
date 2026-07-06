@@ -1,5 +1,10 @@
 <div align="center">
 
+![star boarder](https://64.media.tumblr.com/281ee266506c29dc9097abc4bf5c1b46/98b8fc02a696116e-b5/s500x750/18e96471ffb6153729f7d02372151604d43f2520.pnj)
+</div>
+
+<div align="center">
+
 ![star gif divider](https://64.media.tumblr.com/8874acbde1665125b66da5a3f91e382c/8e867d1d1e856a6d-8b/s500x750/ac4f6ed1e2f19bb4743bcf75dac33cc464c8ae3a.gifv)
 </div>
 
