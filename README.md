@@ -3,11 +3,6 @@
 ![star boarder](https://64.media.tumblr.com/281ee266506c29dc9097abc4bf5c1b46/98b8fc02a696116e-b5/s500x750/18e96471ffb6153729f7d02372151604d43f2520.pnj)
 </div>
 
-<div align="center">
-
-![star gif divider](https://64.media.tumblr.com/8874acbde1665125b66da5a3f91e382c/8e867d1d1e856a6d-8b/s500x750/ac4f6ed1e2f19bb4743bcf75dac33cc464c8ae3a.gifv)
-</div>
-
 <p align="center">
 No one tried
 </p>
@@ -18,13 +13,18 @@ No one tried
 
 <div align="center">
 
-![star gif divider2](https://64.media.tumblr.com/636fdd84bcaad02ec30123a6a2c3d2de/8e867d1d1e856a6d-b3/s500x750/fb38e8b3d97b99732c47e9ebf24637a6aab3086e.gifv)
+![star gif divider](https://64.media.tumblr.com/e693934e762dcb9fbd56dc2af91bdef9/9e9c315927c18526-48/s500x750/1d2ac1b9dd470c2b66536be0f79a1b79205d8772.gifv)
 </div>
 
 
 <p align="center">
 To read my eyes
 </p>
+
+<div align="center">
+  
+  ![lilypad divider](https://64.media.tumblr.com/164fb0f4daaa5f51a9050fb405776935/60660477b6a400d5-d7/s500x750/0a874ccbb00c724cbc69860fa63d5b6df811a9ea.pnj)
+</div>
 
 <p align="center">
 [libug]
