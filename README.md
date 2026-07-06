@@ -1,6 +1,6 @@
 <div align="center">
 
-![star boarder](https://64.media.tumblr.com/281ee266506c29dc9097abc4bf5c1b46/98b8fc02a696116e-b5/s500x750/18e96471ffb6153729f7d02372151604d43f2520.pnj)
+![star top boarder](https://64.media.tumblr.com/281ee266506c29dc9097abc4bf5c1b46/98b8fc02a696116e-b5/s500x750/18e96471ffb6153729f7d02372151604d43f2520.pnj)
 </div>
 
 <p align="center">
@@ -35,6 +35,8 @@ No one but you
 </p>
 
 <div align="center">
+
+![clover bottom boarder](https://64.media.tumblr.com/68e60c0af2813c15cc5047623ede51ad/63214a32c0af0550-d6/s500x750/d4763a1f440b40409dd7ee5710754e39967ec481.pnj)
   
   ![[discord server](https://discord.gg/py37fxQpr8)](https://64.media.tumblr.com/0e6a8b93011469257d60187f6dcd6899/f02a1cb68b17106a-45/s250x400/41906d617558993585c7136d0b5dabeeac07ab57.pnj)
 </div>
