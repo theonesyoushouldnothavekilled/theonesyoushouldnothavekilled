@@ -17,3 +17,7 @@ To read my eyes
 <p align="center">
 No one but you
 </p>
+
+<div align="center">
+  [discord server](https://discord.gg/py37fxQpr8)
+</div>
