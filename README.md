@@ -13,7 +13,7 @@ No one tried
 </p>
 
 <p align="center">
-![cass](https://pin.it/1EeETexJz)
+![cass](https://i.pinimg.com/736x/38/5a/a7/385aa7990ad06a9453aa65e1c8913a57.jpg)
 </p>
 
 <div align="center">
