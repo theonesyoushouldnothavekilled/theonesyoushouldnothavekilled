@@ -13,7 +13,8 @@ No one tried
 </p>
 
 <p align="center">
-![cass](https://i.pinimg.com/736x/38/5a/a7/385aa7990ad06a9453aa65e1c8913a57.jpg)
+![cass](https://github.com/user-attachments/assets/147c138f-3f74-4da5-bce6-dd3a38818686)
+
 </p>
 
 <div align="center">
