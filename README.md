@@ -13,7 +13,7 @@ No one tried
 </p>
 
 <p align="center">
-[cass](https://pin.it/HAOtPLwwQ)
+![cass](https://pin.it/HAOtPLwwQ)
 </p>
 
 <div align="center">
